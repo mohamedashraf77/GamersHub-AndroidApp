@@ -4,6 +4,7 @@
 
 1. Create the activity to switch between the application views
 2. Make it interactive
+3. Use the resources file to check for the designs
 
 
 ## Names for those who will work
